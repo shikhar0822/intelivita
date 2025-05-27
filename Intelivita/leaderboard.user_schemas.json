@@ -1,0 +1,2400 @@
+[{
+  "_id": {
+    "$oid": "6835d77d649748215ba35a07"
+  },
+  "full_name": "Douglas Kulas",
+  "rank": 52,
+  "total_points": 260,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:17.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a17"
+  },
+  "full_name": "Tanya Koepp",
+  "rank": 1,
+  "total_points": 400,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a2e"
+  },
+  "full_name": "Bill Lueilwitz",
+  "rank": 147,
+  "total_points": 40,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a33"
+  },
+  "full_name": "Dr. Mildred Schmidt",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.335Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a44"
+  },
+  "full_name": "Jana Emmerich",
+  "rank": 132,
+  "total_points": 80,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a4b"
+  },
+  "full_name": "Lance Schiller",
+  "rank": 147,
+  "total_points": 40,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.344Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a50"
+  },
+  "full_name": "Cora VonRueden",
+  "rank": 1,
+  "total_points": 400,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a67"
+  },
+  "full_name": "Neal Weber",
+  "rank": 26,
+  "total_points": 340,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a7b"
+  },
+  "full_name": "Doris Hagenes",
+  "rank": 115,
+  "total_points": 140,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.374Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a85"
+  },
+  "full_name": "Marion Heathcote",
+  "rank": 139,
+  "total_points": 60,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a8b"
+  },
+  "full_name": "Bobby Kilback",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35a9c"
+  },
+  "full_name": "Shannon Runte",
+  "rank": 52,
+  "total_points": 260,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35aac"
+  },
+  "full_name": "Willie Rogahn",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.392Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35abd"
+  },
+  "full_name": "Agnes Larson",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35acc"
+  },
+  "full_name": "Clay Kihn",
+  "rank": 121,
+  "total_points": 120,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35ad5"
+  },
+  "full_name": "Lee Botsford",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35ae3"
+  },
+  "full_name": "Judith Murphy",
+  "rank": 132,
+  "total_points": 80,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.410Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35aea"
+  },
+  "full_name": "Grady Stehr DVM",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35af7"
+  },
+  "full_name": "Miss Rosemarie Gerlach",
+  "rank": 155,
+  "total_points": 20,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.418Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35afb"
+  },
+  "full_name": "Dr. Eric Spencer",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.426Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b09"
+  },
+  "full_name": "Ricardo Lehner",
+  "rank": 147,
+  "total_points": 40,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b0e"
+  },
+  "full_name": "Rachael Hagenes",
+  "rank": 26,
+  "total_points": 340,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.436Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b22"
+  },
+  "full_name": "Joanna Will",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.453Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b31"
+  },
+  "full_name": "Roland Wilkinson",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b3d"
+  },
+  "full_name": "Laurence Morissette",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.469Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b4e"
+  },
+  "full_name": "Mr. Levi Ziemann",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b5b"
+  },
+  "full_name": "Cody Rohan",
+  "rank": 121,
+  "total_points": 120,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.478Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b64"
+  },
+  "full_name": "Nancy Rice",
+  "rank": 40,
+  "total_points": 300,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b76"
+  },
+  "full_name": "Ernesto Stehr",
+  "rank": 19,
+  "total_points": 360,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b8b"
+  },
+  "full_name": "Ray Okuneva DDS",
+  "rank": 121,
+  "total_points": 120,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.491Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b94"
+  },
+  "full_name": "Darin Shanahan",
+  "rank": 128,
+  "total_points": 100,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35b9c"
+  },
+  "full_name": "Edmund Stamm",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.497Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35ba9"
+  },
+  "full_name": "Mr. Terrance Heathcote DDS",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.501Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35bb6"
+  },
+  "full_name": "Dr. Julio Buckridge",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35bc3"
+  },
+  "full_name": "Meredith Kuhn",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35bce"
+  },
+  "full_name": "Dustin Shields",
+  "rank": 32,
+  "total_points": 320,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.510Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35be1"
+  },
+  "full_name": "Ronnie Mayer PhD",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.516Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35bee"
+  },
+  "full_name": "Dominick Torphy",
+  "rank": 40,
+  "total_points": 300,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.519Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35c00"
+  },
+  "full_name": "Rickey Wuckert",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.523Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d781649748215ba35c0e"
+  },
+  "full_name": "Ms. Harriet Cormier",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:21.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9eda9"
+  },
+  "full_name": "Mr. Robert Sawayn",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9edb5"
+  },
+  "full_name": "Gary Bogisich",
+  "rank": 115,
+  "total_points": 140,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9edbf"
+  },
+  "full_name": "Julius Feeney",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.920Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9edcc"
+  },
+  "full_name": "Morris Bartell",
+  "rank": 132,
+  "total_points": 80,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9edd3"
+  },
+  "full_name": "Joe Pouros",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.930Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ede4"
+  },
+  "full_name": "Rafael Hoeger",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.936Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9edfa"
+  },
+  "full_name": "Victoria Murphy",
+  "rank": 132,
+  "total_points": 80,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee01"
+  },
+  "full_name": "Marcus Klein",
+  "rank": 19,
+  "total_points": 360,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee16"
+  },
+  "full_name": "Tara Spinka",
+  "rank": 128,
+  "total_points": 100,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee1e"
+  },
+  "full_name": "Ms. Victoria Torp",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee2b"
+  },
+  "full_name": "Inez Cremin",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee37"
+  },
+  "full_name": "Vicki Stoltenberg",
+  "rank": 155,
+  "total_points": 20,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee3b"
+  },
+  "full_name": "Shelia Ritchie",
+  "rank": 19,
+  "total_points": 360,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.967Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee50"
+  },
+  "full_name": "Karl O'Reilly II",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.972Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee5c"
+  },
+  "full_name": "Kay Ortiz",
+  "rank": 147,
+  "total_points": 40,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d783cdd4e1c889b9ee61"
+  },
+  "full_name": "Mr. Gene Romaguera",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:23.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ee77"
+  },
+  "full_name": "Geneva Hartmann",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ee82"
+  },
+  "full_name": "Dr. Hazel Borer",
+  "rank": 52,
+  "total_points": 260,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.004Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ee92"
+  },
+  "full_name": "Jeffery Jenkins-Pagac",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.007Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9eea0"
+  },
+  "full_name": "Geraldine Little",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9eeb6"
+  },
+  "full_name": "Krista Smitham",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9eec2"
+  },
+  "full_name": "Ed Reinger III",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9eed8"
+  },
+  "full_name": "Donnie Schinner",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9eee3"
+  },
+  "full_name": "Rickey Kunde",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.036Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9eef2"
+  },
+  "full_name": "Dr. Kurt Farrell",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9eefd"
+  },
+  "full_name": "Morris Kihn",
+  "rank": 32,
+  "total_points": 320,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef10"
+  },
+  "full_name": "Edwin Nikolaus I",
+  "rank": 128,
+  "total_points": 100,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef18"
+  },
+  "full_name": "Randal Kertzmann",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef26"
+  },
+  "full_name": "Dr. Dean Reichert",
+  "rank": 147,
+  "total_points": 40,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef2b"
+  },
+  "full_name": "Tasha Rohan",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef39"
+  },
+  "full_name": "Jonathan Altenwerth III",
+  "rank": 19,
+  "total_points": 360,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef4e"
+  },
+  "full_name": "Willis Morar",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.072Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef5a"
+  },
+  "full_name": "Dr. Pat Dickens",
+  "rank": 32,
+  "total_points": 320,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.075Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef6d"
+  },
+  "full_name": "Frederick Larson",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef78"
+  },
+  "full_name": "Jose Connelly",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef85"
+  },
+  "full_name": "Laurence Ondricka",
+  "rank": 1,
+  "total_points": 400,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9ef9c"
+  },
+  "full_name": "Leona Moore",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9efa8"
+  },
+  "full_name": "Miriam Weber",
+  "rank": 147,
+  "total_points": 40,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9efad"
+  },
+  "full_name": "Arnold Collier",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d784cdd4e1c889b9efb8"
+  },
+  "full_name": "Joanna Kling",
+  "rank": 52,
+  "total_points": 260,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:24.102Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe95fb"
+  },
+  "full_name": "Mrs. Ellen Cruickshank",
+  "rank": 128,
+  "total_points": 100,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9603"
+  },
+  "full_name": "Shannon Harvey IV",
+  "rank": 1,
+  "total_points": 400,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe961a"
+  },
+  "full_name": "Shannon Pollich-Casper",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9626"
+  },
+  "full_name": "Jimmie Jast",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.750Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe963c"
+  },
+  "full_name": "Sammy Luettgen",
+  "rank": 19,
+  "total_points": 360,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.756Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9651"
+  },
+  "full_name": "Rosemary Ferry",
+  "rank": 155,
+  "total_points": 20,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.763Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9655"
+  },
+  "full_name": "Dr. Hugh Hessel",
+  "rank": 121,
+  "total_points": 120,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe965e"
+  },
+  "full_name": "Terry Nitzsche-Crooks",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9669"
+  },
+  "full_name": "Lora Hand",
+  "rank": 115,
+  "total_points": 140,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9673"
+  },
+  "full_name": "Blake Kuhlman",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9681"
+  },
+  "full_name": "Santiago Quitzon",
+  "rank": 32,
+  "total_points": 320,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9694"
+  },
+  "full_name": "Lucas Haley",
+  "rank": 139,
+  "total_points": 60,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe969a"
+  },
+  "full_name": "Mrs. Kathy Collier",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe96a5"
+  },
+  "full_name": "Byron Predovic",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe96b2"
+  },
+  "full_name": "Mrs. Cecilia Ritchie",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe96c8"
+  },
+  "full_name": "Alison Hettinger",
+  "rank": 26,
+  "total_points": 340,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe96dc"
+  },
+  "full_name": "Alonzo Lueilwitz",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.823Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe96eb"
+  },
+  "full_name": "Mrs. Kelley Lang Jr.",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe96f8"
+  },
+  "full_name": "Miss Meredith Considine",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.832Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9709"
+  },
+  "full_name": "Ivan Pacocha-Rolfson II",
+  "rank": 115,
+  "total_points": 140,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.837Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9713"
+  },
+  "full_name": "Earnest Auer",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.843Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9720"
+  },
+  "full_name": "Mrs. Jackie Jacobson",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe972e"
+  },
+  "full_name": "Monica Zulauf",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.852Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe973d"
+  },
+  "full_name": "Simon Mills",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9753"
+  },
+  "full_name": "Morris Paucek",
+  "rank": 121,
+  "total_points": 120,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe975c"
+  },
+  "full_name": "Corey Hettinger",
+  "rank": 19,
+  "total_points": 360,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9771"
+  },
+  "full_name": "Katherine Quigley",
+  "rank": 155,
+  "total_points": 20,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.869Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9775"
+  },
+  "full_name": "Paulette Bernhard",
+  "rank": 32,
+  "total_points": 320,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.872Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9788"
+  },
+  "full_name": "Ted Rosenbaum",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.877Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9793"
+  },
+  "full_name": "Sarah Sipes",
+  "rank": 155,
+  "total_points": 20,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9797"
+  },
+  "full_name": "Steven Herman",
+  "rank": 32,
+  "total_points": 320,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe97aa"
+  },
+  "full_name": "Chris Lesch",
+  "rank": 19,
+  "total_points": 360,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.887Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe97bf"
+  },
+  "full_name": "Terrell Kreiger",
+  "rank": 52,
+  "total_points": 260,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe97cf"
+  },
+  "full_name": "Neal Schamberger Sr.",
+  "rank": 1,
+  "total_points": 400,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe97e6"
+  },
+  "full_name": "Dr. Raymond Barrows DDS",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.901Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe97f7"
+  },
+  "full_name": "Martha Schmeler",
+  "rank": 139,
+  "total_points": 60,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe97fd"
+  },
+  "full_name": "Crystal Muller",
+  "rank": 26,
+  "total_points": 340,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9811"
+  },
+  "full_name": "Ramona Spinka",
+  "rank": 32,
+  "total_points": 320,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.917Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe9824"
+  },
+  "full_name": "Stella Ritchie",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d785a2223ad67dbe983a"
+  },
+  "full_name": "Mildred Beahan",
+  "rank": 115,
+  "total_points": 140,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:25.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dbd9"
+  },
+  "full_name": "Kristopher Spencer",
+  "rank": 139,
+  "total_points": 60,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dbdf"
+  },
+  "full_name": "Jerry Hyatt",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dbf5"
+  },
+  "full_name": "Domingo Gorczany",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc00"
+  },
+  "full_name": "Robyn Feil",
+  "rank": 67,
+  "total_points": 220,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc0e"
+  },
+  "full_name": "Leticia Yundt",
+  "rank": 147,
+  "total_points": 40,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.689Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc13"
+  },
+  "full_name": "Shannon Mertz",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.692Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc1e"
+  },
+  "full_name": "Johanna Mills",
+  "rank": 115,
+  "total_points": 140,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc28"
+  },
+  "full_name": "Ervin Kling",
+  "rank": 132,
+  "total_points": 80,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc2f"
+  },
+  "full_name": "Luke McCullough",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.705Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc3a"
+  },
+  "full_name": "Kristen Ward",
+  "rank": 147,
+  "total_points": 40,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.709Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc3f"
+  },
+  "full_name": "Edmond Cartwright",
+  "rank": 32,
+  "total_points": 320,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.711Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc52"
+  },
+  "full_name": "Miriam Klocko",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc63"
+  },
+  "full_name": "Casey Rau",
+  "rank": 155,
+  "total_points": 20,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc67"
+  },
+  "full_name": "Ms. Katherine Rogahn",
+  "rank": 139,
+  "total_points": 60,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc6d"
+  },
+  "full_name": "Pedro Casper",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.760Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc79"
+  },
+  "full_name": "Bobbie Upton",
+  "rank": 1,
+  "total_points": 400,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.764Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dc90"
+  },
+  "full_name": "Matt Hand",
+  "rank": 26,
+  "total_points": 340,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dca4"
+  },
+  "full_name": "Dr. Caroline West",
+  "rank": 139,
+  "total_points": 60,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dcaa"
+  },
+  "full_name": "Daniel O'Hara",
+  "rank": 52,
+  "total_points": 260,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dcba"
+  },
+  "full_name": "Lynette Kris",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dcd0"
+  },
+  "full_name": "Jesus Treutel",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dcdd"
+  },
+  "full_name": "Lydia Buckridge",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.795Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dcec"
+  },
+  "full_name": "Tony Jacobi",
+  "rank": 139,
+  "total_points": 60,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dcf2"
+  },
+  "full_name": "Celia Tromp DDS",
+  "rank": 40,
+  "total_points": 300,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd04"
+  },
+  "full_name": "Angelina Abshire",
+  "rank": 7,
+  "total_points": 380,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd1a"
+  },
+  "full_name": "Norman Heller",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd26"
+  },
+  "full_name": "Vivian Kutch",
+  "rank": 26,
+  "total_points": 340,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.829Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd3a"
+  },
+  "full_name": "Gina Hayes",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.833Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd49"
+  },
+  "full_name": "Jerry Hermann",
+  "rank": 132,
+  "total_points": 80,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.837Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd50"
+  },
+  "full_name": "Tami Mueller",
+  "rank": 132,
+  "total_points": 80,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.840Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd57"
+  },
+  "full_name": "Russell Sanford",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.842Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd62"
+  },
+  "full_name": "Emanuel Runte I",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.845Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd71"
+  },
+  "full_name": "Jan Gottlieb",
+  "rank": 121,
+  "total_points": 120,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.850Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd7a"
+  },
+  "full_name": "Dr. Justin Pfannerstill MD",
+  "rank": 58,
+  "total_points": 240,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.854Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd89"
+  },
+  "full_name": "Mable Collier",
+  "rank": 76,
+  "total_points": 200,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.857Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd96"
+  },
+  "full_name": "Erica Cormier",
+  "rank": 121,
+  "total_points": 120,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.860Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430dd9f"
+  },
+  "full_name": "Pete Barrows",
+  "rank": 101,
+  "total_points": 160,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430ddaa"
+  },
+  "full_name": "Heather McClure",
+  "rank": 90,
+  "total_points": 180,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.868Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430ddb6"
+  },
+  "full_name": "Tracey Mann",
+  "rank": 139,
+  "total_points": 60,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835d78795ca45c88430ddbc"
+  },
+  "full_name": "Leland Legros IV",
+  "rank": 43,
+  "total_points": 280,
+  "createdAt": {
+    "$date": "2025-05-27T15:17:27.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T16:49:04.432Z"
+  },
+  "__v": 0
+}]
